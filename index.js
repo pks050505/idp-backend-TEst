@@ -9,7 +9,7 @@ const SECRET_KEY = 'your_secret_key'; // Use an environment variable for product
 
 // Middleware
 app.use(bodyParser.json());
-
+//dummy
 // Dummy user data (replace with a real database in production)
 const users = [
   {
