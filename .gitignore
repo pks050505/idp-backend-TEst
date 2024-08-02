@@ -1,0 +1,90 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+dist/
+build/
+
+# npm and Yarn directories
+.npm
+.yarn
+.yarnrc
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Debugging files
+debug.log*
+
+# Temporary files
+temp/
+tmp/
+
+# Coverage directory for testing
+coverage/
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel-bundler cache (if used)
+.cache/
+
+# Sentry-cli files
+.sentryclirc
+
+# Firebase cache
+.firebase/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Remotion cache and output
+.remotion/
+
+# Expo files
+.expo/
+
+# Storybook files
+.storybook/
+out/
+
+# TypeScript declaration files
+*.d.ts
+
+# Prettier config
+.prettierrc
+
+# Local .env file
+.local.env
+
+# Stylelint cache
+.stylelintcache
